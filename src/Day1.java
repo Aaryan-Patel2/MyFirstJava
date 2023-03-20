@@ -1,7 +1,7 @@
 
 // Day #1: Hello World & Variables, Data Types
 class Day1 {
-    public static void main(String[] arguments) {
+    public static void main(String[] args) { //Note that the "args" part can be anything you want
         
         // Hello World
         System.out.println("Hello World!");
